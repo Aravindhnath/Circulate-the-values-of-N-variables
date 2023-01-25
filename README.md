@@ -6,19 +6,18 @@ PC
 Anaconda - Python 3.7
 ## Algorithm: 
 ### Step 1: 
-define the function name
+Define the function name
 ### Step 2: 
-add the two slicing values
+Add the two slicing values
 ### Step 3: 
 Get the value from the user for the number of rotation
 ### Step 4: 
 Using the slicing concept rotate the list
-
 ### Step 5: 
-call the funtion name
-
+Call the funtion name
 ### Step 6: 
-end the program
+End the program
+
 ## Program:
 ```
 #Program to circulate N values.
@@ -30,9 +29,8 @@ def circulate():
 l=eval(input())
 n=int(input())
 ```
-
 ## Output:
- ![outout](program.png)
-## Result:
+![Screenshot 2023-01-25 202543](https://user-images.githubusercontent.com/118790841/214597350-4c1b807a-6ea4-4307-af22-dd216a898093.png)
 
+## Result:
 Thus the program executed successfully..
